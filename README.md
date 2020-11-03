@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vakas Akhtar</h1>
  
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **Swift**
 
 - 👨‍💻 All of my projects are available at [https://vakas-akhtar.vercel.app/](https://vakas-akhtar.vercel.app/)
 
