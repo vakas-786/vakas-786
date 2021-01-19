@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vakas Akhtar</h1>
+<<<<<<< HEAD
 - 🌱 I’m currently learning **Elixir**
+=======
+ 
+- 🌱 I’m currently learning **Swift**
+>>>>>>> acd812e71ba2e6403d9c109d408420fb76f5f86a
 
 - 👨‍💻 All of my projects are available at [https://vakas-akhtar.vercel.app/](https://vakas-akhtar.vercel.app/)
 
