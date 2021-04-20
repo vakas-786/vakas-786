@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vakas Akhtar</h1>
 - 🌱 I’m currently learning **Python and Django**
 
-- 👨‍💻 All of my projects are available at [https://vakas-akhtar.vercel.app/](https://vakas-akhtar.vercel.app/)
-
 - 📝 I regulary write articles on [https://medium.com/@vakas0959](https://medium.com/@vakas0959)
 
 - 📫 How to reach me **vakhtar@fordham.edu**
