@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vakas Akhtar</h1>
 
-- 📝 I regulary articles on [https://medium.com/@vakas0959](https://medium.com/@vakas0959)
+- 📝 I write articles on [https://medium.com/@vakas0959](https://medium.com/@vakas0959)
 
 - 📫 How to reach me **akhtar.vakas@gmail.com**
 
